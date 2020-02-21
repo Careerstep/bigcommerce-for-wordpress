@@ -1,10 +1,10 @@
 <?php
 /*
-Plugin Name:  BigCommerce for WordPress
+Plugin Name:  BigCommerce for WordPress (Carrus)
 Description:  Scale your ecommerce business with WordPress on the front-end and BigCommerce on the back end. Free up server resources from things like catalog management, processing payments, and managing fulfillment logistics.
-Author:       BigCommerce
+Author:       Carrus
 Version:      3.13.0
-Author URI:   https://www.bigcommerce.com/wordpress
+Author URI:   https://carruslearn.com
 Requires PHP: 5.6.24
 Text Domain:  bigcommerce
 License:      GPLv2 or later
